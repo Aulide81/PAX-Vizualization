@@ -7,8 +7,7 @@ To see visualizations go to: https://tableau
 
 Information in this repository is stored as detailed folder structure:
 * **docs:** paper with workshop answers in PDF and ODT formats.
-* **notebook-data/data/in:** data files used as source
-* **notebook-data/data/out:** data files obtained after notebook execution and used as source for visualitzation utilities
-* **notebook-data:** notebook in Python3 to get data from data folder, clean it and to obtain output data files
+* **data:** data files used as source for visualitzation.
+* **code:** R script for data transformation.
 
 Visualitzation was created with [Tableau Desktop](https://www.tableau.com/products/desktop) (student license)
